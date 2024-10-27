@@ -17,7 +17,8 @@ Create the Database: You’ll need a new database called ecommerce_db. Run this 
 
             CREATE DATABASE ecommerce_db;
 
-Check Your Database Credentials: In the code files, make sure the database login details (like username and password) match your MySQL setup.
+_2.Check Your Database Credentials:_
+In the code files, make sure the database login details (like username and password) match your MySQL setup.
 
 _3. Prepare the Data Files_
 
