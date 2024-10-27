@@ -22,8 +22,9 @@ Check Your Database Credentials: In the code files, make sure the database login
 _3. Prepare the Data Files_
 
 Get the CSV Files: You’ll need two CSV files:
-  customers.csv – contains customer details, like IDs and names.
-  orders.csv – contains order details, including order ID, customer ID, total amount, and order date.
+              customers.csv – contains customer details, like IDs and names.
+              orders.csv – contains order details, including order ID, customer ID, total amount, and order date.
+              
 Place the Files in the Right Folder:
 The script expects these files in a specific folder, like E:\Delivergate\ on Windows. 
 If you’re using a different path, update the file paths in the code to match.
